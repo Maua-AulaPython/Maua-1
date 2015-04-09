@@ -5,3 +5,7 @@ def media():
     d = int (raw_input())
     c = (a+b+d)/3.0
     print c 
+
+# Nota: 0.5
+# Comentario: Media nunca chamada, considerando algoritmo. Quando copiarem
+# trabalhos uns dos outros procurem ao menos corrigir os erros de portugues

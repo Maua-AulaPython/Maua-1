@@ -18,3 +18,4 @@ def media2():
             i=-1
                 
 
+# Nota: 0.5
