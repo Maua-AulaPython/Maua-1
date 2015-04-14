@@ -1,0 +1,24 @@
+import sys
+nota = []
+n = 0
+a = 0
+b = 0
+while n >= 0:
+    while True:
+        try:
+            n = int(raw_input("Nota: "))
+            break
+        except:
+            print "Numero invalido"
+    nota.append(n)
+        
+nota.remove(-1)   
+x = 0
+for i in nota:
+    x =x + i
+
+if len(nota):
+  a = soma/len(nota)
+  b = max(nota)
+  print 'Media = ', a
+  print 'Maior Nota = ', b
