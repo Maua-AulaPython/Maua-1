@@ -6,4 +6,4 @@ def par (e):
         print "Numero impar"
     
 
-
+# Nota: 0.5
