@@ -22,3 +22,7 @@ if len(nota):
   b = max(nota)
   print 'Media = ', a
   print 'Maior Nota = ', b
+
+#Nota: 0.4
+#Comentario: programa nao executa (soma nao declarada). Nao tem extensao .py
+#            considerando o restante do algoritmo
